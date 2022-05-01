@@ -2,7 +2,7 @@
 ![mc1](https://raw.githubusercontent.com/c0dertitan/c0dertitan/main/halo2.jpg)
 Hello, I am Coder Titan.
 
-An official developer I know HTML, Python, Bash, Lua, and Markdown!
+An official developer I know HTML, Python, Bash, Lua, JavaScript, and Markdown!
 I like coding because... Learning code can help you make websites, apps, even an operating system
 I also like creating robots.
 
