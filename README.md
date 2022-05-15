@@ -19,4 +19,4 @@ website and operating system building!
 [Follow me on GitHub](https://github.com/c0dertitan)
 
 ## Github Status
-[![c0dertitan's GitHub stats](https://github-readme-stats.vercel.app/api?c0dertitan=c0dertitan)](https://github.com/c0dertitan/github-readme-stats)
+[![c0dertitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dertitan)](https://github.com/c0dertitan/github-readme-stats)
