@@ -1,5 +1,4 @@
 # About me.
-![h2](https://raw.githubusercontent.com/c0dertitan/c0dertitan/main/halo2.jpg)
 Hello, I am Coder Titan.
 
 An official developer I know HTML, Python, Bash, Lua, JavaScript, and Markdown!
