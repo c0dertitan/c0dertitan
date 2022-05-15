@@ -17,3 +17,6 @@ website and operating system building!
 [Donate to me on Roblox](https://web.roblox.com/game-pass/41565829/Donate-to-Coder-Titan-on-GitHub)
 3:
 [Follow me on GitHub](https://github.com/c0dertitan)
+
+## Github Status
+[![c0dertitan's GitHub stats](https://github-readme-stats.vercel.app/api?c0dertitan=c0dertitan)](https://github.com/c0dertitan/github-readme-stats)
