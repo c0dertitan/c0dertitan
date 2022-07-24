@@ -1,4 +1,4 @@
-Wifi... Computers... Operating systems... All these things are vulnerable. The internet is not a place to play. It's a war. A war of white hat hackers and black hat hackers. But the black hats have the advantage. But whites will win..
+i like fortnite
 -------------------------------------------------------------------------------------------------------
 
 
