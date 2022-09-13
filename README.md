@@ -1,4 +1,4 @@
-i like fortnite
+Hello I am c0dertitan! I like to code in Python, HTML, and Bash somtimes even Lua and Javascript!
 -------------------------------------------------------------------------------------------------------
 
 
