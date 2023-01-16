@@ -1,4 +1,4 @@
-Hello I am c0dertitan! I like to code in Python, HTML, and Bash somtimes even Lua and Javascript!
+Wassup! I'm CT I make games, webs, &.. well thats pretty much it XD
 -------------------------------------------------------------------------------------------------------
 
 
