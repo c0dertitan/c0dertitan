@@ -1,4 +1,1 @@
-Wassup! I'm CT I make games, webs, &.. well thats pretty much it XD
--------------------------------------------------------------------------------------------------------
-
-I'm currently making a game engine The Penguin.
+I am a Ethical Hacker who likes to stay anonymous.
